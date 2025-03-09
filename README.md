@@ -1,0 +1,2 @@
+- A real-time weather application that provides accurate forecasts using advanced weather APIs. 
+- It delivers current conditions, temperature, humidity and wind speed in an easy-to-use interface. 
